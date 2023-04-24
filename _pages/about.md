@@ -20,20 +20,9 @@ Maybe talk about current research here
 
 Science lead
 
-Current course work 
-
 Talk about St Jude
 
-
-
-Preparing for my **summer internship at NASA JPL** where I'll be working on the simulation stack for the Mars Sample Return mission. 
-
-I'm the **software lead for Michigan Autonomous Aereal Vehicles (MAAV)** where we design, program, and test software code for a completely autonomous on-board flight system. Our team is competing in the IARC international competition this year and plans on running flight tests this summer! 
-
-I'm an **iOS Lead for Michigan Hackers**. Michigan Hackers is the largest Computer Science club on campus with over 150 active members. On the iOS subteam, we work to teach, develop, and deploy iOS apps using Xcode and swift. Check out some of the cool projects we've worked on in the Projects tab!
-
-I'm currently a **teaching assistant for EECS 482 -- Operating Systems** which is an intense computer science course where students impliment large C++ projects including: their own thread library, virtual memory pager, and networked computer file system. 
-
+Current course work 
 
 Contact Me
 ======
