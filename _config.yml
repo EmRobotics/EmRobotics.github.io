@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrew Scheffer's Website"
+title                    : "Emeline Hanna's Website"
 title_separator          : "-"
-name                     : &name "Andrew Scheffer"
-description              : &description "Graduate Student at the University of Michigan"
-url                      : https://schefferac2020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Emeline Hanna"
+description              : &description "Nuclear Engineering Student at the University of Michigan"
+url                      : https://EmRobotics.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "schefferac2020/schefferac2020.github.io"
+repository               : "EmRobotics/EmRobotics.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andrew Scheffer"
+  name             : "Emeline Hanna"
   avatar           : "profile.png"
-  bio              : "Graduate Student at the University of Michigan"
+  bio              : "Nuclear Engineering Student at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "drewskis@umich.edu"
+  email            : "emelineh@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "schefferac2020"
+  github           : "EmRobotics"
   google_plus      :
   keybase          :
   instagram        :
