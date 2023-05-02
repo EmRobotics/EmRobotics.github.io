@@ -16,13 +16,16 @@ I have experience coding, doing research, and working in the nuclear energy indu
 What I'm Doing Now
 ======
 
-Maybe talk about current research here
+I’m preparing for my **summer internship at St. Jude Children's Reseach Hospital** where I’ll be working on AI organ segmentation for pediatric radiation oncology.
 
-Science lead
+I have done a summer of **measurement research** with Dr. Zhong He in the [Orion Radiation Measurement Group](https://cztlab.engin.umich.edu) where I worked with thallium bromide (TlBr) semiconductor crystals and wrote MATLAB algorithms to investigate how the crystals changed over time. 
 
-Talk about St Jude
+I then worked with Dr. John Foster in the [Plasma Science and Technology Lab](https://pstlab.engin.umich.edu) where I documented the design and started building a plasma reactor that could destroy high concentrations of PFAS in a water purification system. I am currently studying the impacts of background effects of a vacuum chamber on the plasma created by a gridded ion thruster. 
 
-Current course work 
+I'm currently the **Astrobiology Lead on the Michgian Mars Rover Team** where I design life detection testing suites for the detection of amino acids, lipids, and chlorophyll on-board the rover.
+
+I have taken **Radiation Therapy Physics, the Physics of Medical Imaging, and Computational Physics** as well as many other Nuclear Engineering classes as preparation for a Medical Physics PhD program.
+
 
 Contact Me
 ======
