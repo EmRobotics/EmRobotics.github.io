@@ -14,7 +14,7 @@ DESCIBE HERE
 ## RADical Robotics
 #### Fall 2022 and Winter 2023
 
-DESCIBE HERE
+DESCIBE HERE -> Isotope Identification
 
 <div markdown="0" align="center">
     <a href="../files/Radical_Robotics_Final_Report.pdf" class="btn btn--info">Paper</a>
@@ -24,7 +24,7 @@ DESCIBE HERE
 ## Space design
 #### December 2022
 
-DESCIBE HERE
+DESCIBE HERE -> Life support
 
 <div markdown="0" align="center">
     <a href="../files/KOIOS Final Report.pdf" class="btn btn--info">Paper</a>
