@@ -5,18 +5,26 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Mars Rover
+#### Fall 2022 
+
 
 ## RADical Robotics
 #### Fall 2022 and Winter 2023
 
-## Space design
-#### Fall 2022 
+ Paper Github
 
 ## Space design
 #### Fall 2022 
 
-robotics -> projects
-space design -> projects
-plastics movie -> projects??
-mars rover -> ?
+Paper
+
+## Plastics movie
+#### Fall 2022 
+
+youtube video
+
+
+
 GE hitachi -> 
+St jude
