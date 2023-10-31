@@ -9,7 +9,7 @@ author_profile: true
 ### [Plasma Science and Technology Lab](https://pstlab.engin.umich.edu)
 #### Fall 2022 and Winter 2023
 
-This year in Dr. Foster's lab, I have been working on grid ion thruster research with another PhD student. The goal of the project is to determine how the background effects of the vacuum chamber impact the plasma created by the ion thruster and the neutralization of the thruster. I built several Langmuir probes to take measurements inside the vacuum chamber, which are used to investigate the background plasma and the plasma created by the ion thruster. Additionally, I worked on some of the wiring that connects necessary components and allows for the ion thruster to turn on and for measurements to be taken. Currently, I am working on writing Python scripts that automate a process where probes move around the chamber and take measurements continuously as they sweep across different positions.
+Junior year in Dr. Foster's lab, I worked on grid ion thruster research with a PhD student. The goal of the project was to determine how the background effects of the vacuum chamber impact the plasma created by the ion thruster and the neutralization of the thruster. I built several Langmuir probes to take measurements inside the vacuum chamber, which are used to investigate the background plasma and the plasma created by the ion thruster. Additionally, I worked on some of the wiring that connects necessary components and allowed for the ion thruster to turn on and for measurements to be taken. I also worked on writing Python scripts that automate a process where probes moved around the chamber and took measurements continuously as they swept across different positions.
 
 <br>
 
@@ -17,7 +17,7 @@ This year in Dr. Foster's lab, I have been working on grid ion thruster research
 ### [Plasma Science and Technology Lab](https://pstlab.engin.umich.edu)
 #### Winter 2022
 
-Last year, I was working on a water purification project with a PhD student. The goal was to build a plasma reactor that could destroy high concentrations of PFAS in a water purification system. I modeled the reactor reservoir using CAD. I constructed the frame of the reactor and documented the dimensions and setup of the parts. Additionally, I created solutions of differing conductivities that were used to investigate how plasma characteristics changed in different environments. I used the data from spectrometer measurements at differing conductivities to create intensity spectra of the light emitted.
+In 2022, I was working on a water purification project with a PhD student. The goal was to build a plasma reactor that could destroy high concentrations of PFAS in a water purification system. I modeled the reactor reservoir using CAD. I constructed the frame of the reactor and documented the dimensions and setup of the parts. Additionally, I created solutions of differing conductivities that were used to investigate how plasma characteristics changed in different environments. I used the data from spectrometer measurements at differing conductivities to create intensity spectra of the light emitted.
 
 
 <br>

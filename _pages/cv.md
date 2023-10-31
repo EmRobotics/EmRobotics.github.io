@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+University of Michigan 	
+B.S.E. in Nuclear Engineering and Radiological Sciences
+Anticipated Graduation: May 2024
+Current GPA: 4.00
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+St. Jude Children’s research hospital
+Hanna E, Sargent E, Hua C, Merchant TE, Ates O. Performance Analysis and Knowledge-based Quality Assurance of Critical Organ Auto-Segmentation for Craniospinal Irradiation in Pediatric Proton Therapy. Submitted September 2023 to Nature and Scientific Reports, currently in peer review.
+PLASMA SCIENCE & TECHNOLOGY LAB   
+
+Topham TJ, Hanna E, Foster JE. Characterization of background pressure facility effects on a gridded ion engine operation. Abstract submission for the 50th IEEE International Conference on Plasma Science (ICOPS) 2023.
+
+
+Experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+St. Jude Children’s Research Hospital Internship
+May 2023 — July 2023
+
+General Electric Hitachi Internship
+May 2022 — July 2022
+
+Plasma Science and Technology Lab Research
+January 2022 — May 2023
+
+Orion Radiation Measurement Group Research 
+May 2021 — August 2021
+
+
+Design Projects
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Nuclear Engineering Project — RADical Robotics
+Fall 2022 — Spring 2023
+
+Engineering Project Team — MARS Rover
+Fall 2020 - Present           
+
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+MATLAB, Python, C++ 
+Documentation/presentation experience
