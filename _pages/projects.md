@@ -8,13 +8,13 @@ author_profile: true
 ## Mars Rover
 #### Fall 2022 
 
-DESCIBE HERE
+DESCRIBE HERE
 
 
 ## RADical Robotics
 #### Fall 2022 and Winter 2023
 
-DESCIBE HERE -> Isotope Identification
+DESCRIBE HERE -> Isotope Identification
 
 <div markdown="0" align="center">
     <a href="../files/Radical_Robotics_Final_Report.pdf" class="btn btn--info">Paper</a>
@@ -24,7 +24,7 @@ DESCIBE HERE -> Isotope Identification
 ## Space design
 #### December 2022
 
-DESCIBE HERE -> Life support
+DESCRIBE HERE -> Life support
 
 <div markdown="0" align="center">
     <a href="../files/KOIOS Final Report.pdf" class="btn btn--info">Paper</a>
