@@ -17,7 +17,7 @@ Junior year in Dr. Foster's lab, I worked on grid ion thruster research with a P
 ### [Plasma Science and Technology Lab](https://pstlab.engin.umich.edu)
 #### Winter 2022
 
-In 2022, I was working on a water purification project with a PhD student. The goal was to build a plasma reactor that could destroy high concentrations of PFAS in a water purification system. I modeled the reactor reservoir using CAD. I constructed the frame of the reactor and documented the dimensions and setup of the parts. Additionally, I created solutions of differing conductivities that were used to investigate how plasma characteristics changed in different environments. I used the data from spectrometer measurements at differing conductivities to create intensity spectra of the light emitted.
+In 2022, I was working on a water purification project with a PhD student. The goal was to build a plasma reactor that could destroy high concentrations of PFAS in a water purification system. I modeled a previous reactor reservoir using CAD, so a new reservoir could be machined. I constructed the frame of the reactor and documented the dimensions and setup of the parts. Additionally, I created solutions of differing conductivities that were used to investigate how plasma characteristics changed in different environments. I used the data from spectrometer measurements at differing conductivities to create intensity spectra of the light emitted.
 
 
 <br>
@@ -26,4 +26,4 @@ In 2022, I was working on a water purification project with a PhD student. The g
 ### [Orion Radiation Measurement Group](https://cztlab.engin.umich.edu)
 #### Summer 2021
 
-The summer after my freshman year, I worked at the University of Michigan with Dr. Zhong He in the Orion Radiation Measurement Group. I worked with thallium bromide (TlBr) semiconductor crystals which can be used as gamma-ray spectrometers. I ran experiments with the TlBr crystals at certain voltages and other settings to detect a Cs-137 sources. I took these measurements over time to determine how the performance of the detector was changing. I wrote algorithms to characterize the crystal data and create graphs for TlBr crystal analysis using MATLAB.
+The summer after my freshman year, I worked at the University of Michigan with Dr. Zhong He in the Orion Radiation Measurement Group. I worked with thallium bromide (TlBr) semiconductor crystals which can be used as gamma-ray spectrometers. I conducted a series of experiments, adjusting voltage and other settings, collecting data on the response of crystals to Cs-137 sources. I monitored these measurements over time to optimize the collection settings and determine how the performance of the crystals was changing with increased use. Additionally, I wrote algorithms to characterize the crystal data and create graphs for TlBr crystal analysis using MATLAB, contributing to a more thorough understanding of the TlBr crystals' behavior and performance characteristics.

@@ -16,3 +16,9 @@ I did a talk on Amplified Magnetic Resonance Imaging that is available below.
 </div>
 
 This presentation was based on work done by Itamar Terem, Javid Abderezaei, and others in papers such as [3D amplified MRI (aMRI)](https://pubmed.ncbi.nlm.nih.gov/33949713/). 
+
+## Performance Analysis of Craniospinal Irradiation Auto-Segmentation Tools
+
+I did a talk on my work on auto-segmentation of craniospinal irradiated patients at St. Jude to the Radiation Oncology department and my fellow program participants. The slides are not currently publicly avaliable.
+
+![stjude](../files/st_jue.png)

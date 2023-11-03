@@ -24,7 +24,7 @@ I spent a summer doing **pediatric oncology research at St. Jude Children's Rese
 
 I'm currently the **Astrobiology Senior Advising Member on the [Michgian Mars Rover Team](https://mrover.org)** where I am developing a Raman spectrometer and designing life detection testing suites for the detection of amino acids, lipids, and chlorophyll on-board the rover.
 
-I have taken **Radiation Therapy Physics, the Physics of Medical Imaging, and Computational Physics** as well as many other Nuclear Engineering classes as preparation for a Medical Physics PhD program.
+I have taken **Radiation Therapy Physics, the Physics of Medical Imaging, and Computational Physics** as well as many other technical classes as preparation for a Medical Physics PhD program.
 
 
 Contact Me
