@@ -8,8 +8,14 @@ author_profile: true
 ## Mars Rover
 #### Fall 2022 
 
-DESCRIBE HERE
 
+
+<div markdown="0" align="center">
+    <a href="../files/" class="btn btn--info">??</a>
+    <a href="../files/" class="btn btn--info">??</a>
+    <a href="../files/" class="btn btn--info">??</a>
+    <a href="../files/" class="btn btn--info">??</a>
+</div>
 
 ## RADical Robotics
 #### Fall 2022 and Winter 2023
@@ -22,7 +28,7 @@ I used a data file from the detector containing counts per energy channel inform
 
 My algorithm 100% correcly identified only the isotopes present for 160 spectra including 10 spectra for 16 isotope combinations: <sup>241</sup>Am, <sup>133</sup>Ba, <sup>60</sup>Co, <sup>137</sup>Cs, <sup>67</sup>Ga, <sup>226</sup>Ra, <sup>99m</sup>Tc, <sup>201</sup>Tl, <sup>131</sup>I, <sup>232</sup>Th, Depleted uranium (DU), Highly enriched uranium (HEU), Weapons grade plutonium (WGPU), <sup>67</sup>Ga + HEU, <sup>131</sup>I + WGPU, <sup>137</sup>Cs + DU.
 
-Using the bootstrapping method, I had a background dataset including 3002 spectra with no isotopes present, where 99.6% of the spectra were label with no isotope identified. This meets the IAEA National Standard Identification Criteria (N42.34) background false alarm rate requirements.
+Using the bootstrapping method, I had a background dataset including 3002 spectra with no isotopes present, where 99.6% of the spectra were label with no isotope identified. This met the IAEA National Standard Identification Criteria (N42.34) background false alarm rate requirements.
 
 
 <div markdown="0" align="center">

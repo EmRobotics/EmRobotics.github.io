@@ -21,4 +21,4 @@ This presentation was based on work done by Itamar Terem, Javid Abderezaei, and 
 
 I did a talk on my work on auto-segmentation of craniospinal irradiated patients at St. Jude to the Radiation Oncology department and my fellow program participants. The slides are not currently publicly avaliable.
 
-![stjude](../files/st_jue.png)
+![stjude](../files/st_jude.png)
