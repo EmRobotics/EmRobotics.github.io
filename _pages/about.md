@@ -22,7 +22,7 @@ I then worked with Dr. John Foster in the [Plasma Science and Technology Lab](ht
 
 I spent a summer doing **pediatric oncology research at St. Jude Children's Research Hospital** with [Dr. Ozgur Ates](https://www.stjude.org/directory/a/ozgur-ates.html) where I evaluated contours of commercial deep learning and atlas-based auto-segmentation models for craniospinal irradiation in pediatric proton therapy.
 
-I'm currently the **Astrobiology Senior Advising Member on the [Michigan Mars Rover Team](https://mrover.org)** where I am developing a Raman spectrometer and designing life detection testing suites for the detection of amino acids, lipids, and chlorophyll on-board the rover.
+I'm currently the **Astrobiology Senior Advising Member on the [Michigan Mars Rover Team](https://mrover.org)** where I am developing a Raman spectrometer and designing life detection testing suites for the detection of amino acids, carbohydrates, and chlorophyll on-board the rover.
 
 I have taken **Radiation Therapy Physics, the Physics of Medical Imaging, and Computational Physics** as well as many other technical classes as preparation for a Medical Physics PhD program.
 
