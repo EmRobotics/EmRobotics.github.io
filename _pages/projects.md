@@ -52,7 +52,7 @@ I played a crucial role in our team project focused on designing a nuclear-power
 ## Environmental Service Project
 #### Winter 2020
 
-In collaboration with two team members, I conducted hands-on fieldwork, collecting samples from local beaches and **meticulously characterizing microplastics using optical microscopy**. Furthermore, I transformed my research findings into a **compelling environmental awareness film**, which not only demonstrated my dedication to scientific outreach but also earned me the 1st place award in the 9th-12th grade State of Michigan Earth Day Environmental Service Award competition. This experience underscores my passion for making a positive impact on our planet.
+In collaboration with two team members, I conducted hands-on fieldwork, collecting samples from local beaches and **meticulously characterizing microplastics** using optical microscopy. Furthermore, I transformed my research findings into a **compelling environmental awareness film**, which not only demonstrated my dedication to scientific outreach but also earned me the 1st place award in the 9th-12th grade State of Michigan Earth Day Environmental Service Award competition. This experience underscores my passion for making a positive impact on our planet.
 
 <div markdown="0" align="center">
     <a href="https://youtu.be/5LB4wFwrM1M" class="btn btn--info">Video Link</a>
